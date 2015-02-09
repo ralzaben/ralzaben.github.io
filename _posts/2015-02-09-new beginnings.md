@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “New Beginnings“
+title: New Beginnings
 ---
 
 Testing
